@@ -5,7 +5,7 @@
    Unless required by applicable law or agreed to in writing, this
    software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
    CONDITIONS OF ANY KIND, either express or implied.
-   testing 123
+   testing
 */
 
 /*
@@ -204,6 +204,7 @@ static void example_espnow_task(void *pvParameter)
 
                 //ESP_LOGI(TAG, "send data to "MACSTR"", MAC2STR(send_cb->mac_addr));
 
+
                 /* Send the next data after the previous data is sent. */
                 if (esp_now_send(send_param->dest_mac, send_param->buffer, send_param->len) != ESP_OK) {
                    ESP_LOGE(TAG, "Send error");
@@ -223,6 +224,7 @@ static void example_espnow_task(void *pvParameter)
                     if(send_param->broadcast == true && send_param->magic <= recv_magic){
                     send_param->broadcast = false;  
                     }
+                }
                 break;
             }
             default:
