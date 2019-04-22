@@ -139,7 +139,19 @@ espnow_example_main.o: \
  /home/tu/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_now.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/crc.h \
- /home/tu/esp/ESPNOW+AUDIO/main/espnow_example.h
+ /home/tu/esp/ESPNOW+AUDIO/main/espnow_example.h \
+ /home/tu/esp/esp-idf/components/driver/include/driver/i2s.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_struct.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_reg.h \
+ /home/tu/esp/esp-idf/components/driver/include/driver/periph_ctrl.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h \
+ /home/tu/esp/esp-idf/components/esp32/include/esp_dport_access.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
+ /home/tu/esp/esp-idf/components/driver/include/driver/adc.h \
+ /home/tu/esp/esp-idf/components/soc/esp32/include/soc/adc_channel.h \
+ /home/tu/esp/esp-idf/components/esp_adc_cal/include/esp_adc_cal.h
 
 /home/tu/esp/esp-idf/components/newlib/include/stdlib.h:
 
@@ -420,4 +432,28 @@ espnow_example_main.o: \
 /home/tu/esp/esp-idf/components/esp32/include/rom/crc.h:
 
 /home/tu/esp/ESPNOW+AUDIO/main/espnow_example.h:
+
+/home/tu/esp/esp-idf/components/driver/include/driver/i2s.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_struct.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_reg.h:
+
+/home/tu/esp/esp-idf/components/driver/include/driver/periph_ctrl.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h:
+
+/home/tu/esp/esp-idf/components/esp32/include/esp_dport_access.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/periph_defs.h:
+
+/home/tu/esp/esp-idf/components/driver/include/driver/adc.h:
+
+/home/tu/esp/esp-idf/components/soc/esp32/include/soc/adc_channel.h:
+
+/home/tu/esp/esp-idf/components/esp_adc_cal/include/esp_adc_cal.h:
 /home/tu/esp/ESPNOW+AUDIO/main/./espnow_example_main.c:
