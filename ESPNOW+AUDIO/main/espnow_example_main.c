@@ -592,7 +592,7 @@ void adc_read_task(void* arg)
     }
 }
 
-void app_main()
+esp_err_t app_main()
 {
     // Initialize NVS
     esp_err_t ret = nvs_flash_init();
@@ -604,4 +604,11 @@ void app_main()
 
     example_wifi_init();
     example_espnow_init();
+
+    //Audio
+    example_i2s_init();
+    esp_log_level_set("I2S", ESP_LOG_INFO);
+    xTaskCreate(example_i2s_adc_dac, "example_i2s_adc_dac", 1024 * 2, NULL, 5, NULL);
+    xTaskCreate(adc_read_task, "ADC read task", 2048, NULL, 5, NULL);
+    return ESP_OK;
 }
