@@ -1,5 +1,5 @@
 int_wdt.o: /home/tu/esp/esp-idf/components/esp32/int_wdt.c \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -90,7 +90,7 @@ int_wdt.o: /home/tu/esp/esp-idf/components/esp32/int_wdt.c \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/periph_defs.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_int_wdt.h
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdint.h:
 

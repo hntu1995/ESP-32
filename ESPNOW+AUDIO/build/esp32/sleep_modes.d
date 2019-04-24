@@ -11,7 +11,7 @@ sleep_modes.o: /home/tu/esp/esp-idf/components/esp32/sleep_modes.c \
  /home/tu/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_sleep.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -141,7 +141,7 @@ sleep_modes.o: /home/tu/esp/esp-idf/components/esp32/sleep_modes.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_sleep.h:
 

@@ -4,7 +4,7 @@ Partition.o: /home/tu/esp/esp-idf/components/wear_levelling/Partition.cpp \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/features.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -46,7 +46,7 @@ Partition.o: /home/tu/esp/esp-idf/components/wear_levelling/Partition.cpp \
 
 /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

@@ -16,7 +16,7 @@ locks.o: /home/tu/esp/esp-idf/components/newlib/locks.c \
  /home/tu/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/alloca.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/cpu.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -118,7 +118,7 @@ locks.o: /home/tu/esp/esp-idf/components/newlib/locks.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

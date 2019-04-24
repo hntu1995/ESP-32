@@ -18,7 +18,7 @@ random.o: /home/tu/esp/esp-idf/components/newlib/random.c \
  /home/tu/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/reent.h \
@@ -109,7 +109,7 @@ random.o: /home/tu/esp/esp-idf/components/newlib/random.c \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdlib.h:
 

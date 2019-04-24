@@ -23,7 +23,7 @@ i2c.o: /home/tu/esp/esp-idf/components/driver/i2c.c \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_intr.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -146,7 +146,7 @@ i2c.o: /home/tu/esp/esp-idf/components/driver/i2c.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_intr.h:
 

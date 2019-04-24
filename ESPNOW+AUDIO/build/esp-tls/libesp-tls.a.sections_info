@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/esp-tls/libesp-tls.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/esp-tls/libesp-tls.a:
 
 esp_tls.o:     file format elf32-xtensa-le
 
@@ -116,13 +116,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  55 .debug_line   00000ded  00000000  00000000  00005dbc  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 56 .debug_str    00001941  00000000  00000000  00006ba9  2**0
+ 56 .debug_str    00001947  00000000  00000000  00006ba9  2**0
                   CONTENTS, READONLY, DEBUGGING
- 57 .comment      0000003b  00000000  00000000  000084ea  2**0
+ 57 .comment      0000003b  00000000  00000000  000084f0  2**0
                   CONTENTS, READONLY
- 58 .xtensa.info  00000038  00000000  00000000  00008525  2**0
+ 58 .xtensa.info  00000038  00000000  00000000  0000852b  2**0
                   CONTENTS, READONLY
- 59 .xt.lit       000000b0  00000000  00000000  0000855d  2**0
+ 59 .xt.lit       000000b0  00000000  00000000  00008563  2**0
                   CONTENTS, RELOC, READONLY
- 60 .xt.prop      0000099c  00000000  00000000  0000860d  2**0
+ 60 .xt.prop      0000099c  00000000  00000000  00008613  2**0
                   CONTENTS, RELOC, READONLY

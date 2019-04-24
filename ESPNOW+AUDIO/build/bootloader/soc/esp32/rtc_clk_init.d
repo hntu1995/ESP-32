@@ -8,7 +8,7 @@ esp32/rtc_clk_init.o: \
  /home/tu/esp/esp-idf/components/esp32/include/rom/uart.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_types.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/gpio.h \
@@ -59,7 +59,7 @@ esp32/rtc_clk_init.o: \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h:
 

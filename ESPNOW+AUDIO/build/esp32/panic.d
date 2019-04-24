@@ -27,7 +27,7 @@ panic.o: /home/tu/esp/esp-idf/components/esp32/panic.c \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/uart.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_types.h \
@@ -157,7 +157,7 @@ panic.o: /home/tu/esp/esp-idf/components/esp32/panic.c \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/esp_https_ota/libesp_https_ota.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/esp_https_ota/libesp_https_ota.a:
 
 esp_https_ota.o:     file format elf32-xtensa-le
 
@@ -34,13 +34,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  14 .debug_line   0000048c  00000000  00000000  000018e1  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 15 .debug_str    00000c0b  00000000  00000000  00001d6d  2**0
+ 15 .debug_str    00000c11  00000000  00000000  00001d6d  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .comment      0000003b  00000000  00000000  00002978  2**0
+ 16 .comment      0000003b  00000000  00000000  0000297e  2**0
                   CONTENTS, READONLY
- 17 .xtensa.info  00000038  00000000  00000000  000029b3  2**0
+ 17 .xtensa.info  00000038  00000000  00000000  000029b9  2**0
                   CONTENTS, READONLY
- 18 .xt.lit       00000010  00000000  00000000  000029eb  2**0
+ 18 .xt.lit       00000010  00000000  00000000  000029f1  2**0
                   CONTENTS, RELOC, READONLY
- 19 .xt.prop      000001a4  00000000  00000000  000029fb  2**0
+ 19 .xt.prop      000001a4  00000000  00000000  00002a01  2**0
                   CONTENTS, RELOC, READONLY

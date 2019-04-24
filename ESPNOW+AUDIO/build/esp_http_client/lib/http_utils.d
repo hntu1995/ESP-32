@@ -25,7 +25,7 @@ lib/http_utils.o: \
  /home/tu/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/esp_http_client/lib/include/http_utils.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/time.h \
@@ -81,7 +81,7 @@ lib/http_utils.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

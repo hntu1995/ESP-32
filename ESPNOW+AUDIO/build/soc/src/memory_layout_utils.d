@@ -18,7 +18,7 @@ src//memory_layout_utils.o: \
  /home/tu/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -67,7 +67,7 @@ src//memory_layout_utils.o: \
 
 /home/tu/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

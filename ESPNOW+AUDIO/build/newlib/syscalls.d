@@ -27,7 +27,7 @@ syscalls.o: /home/tu/esp/esp-idf/components/newlib/syscalls.c \
  /home/tu/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/alloca.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -140,7 +140,7 @@ syscalls.o: /home/tu/esp/esp-idf/components/newlib/syscalls.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 

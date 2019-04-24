@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/heap/libheap.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/heap/libheap.a:
 
 heap_caps_init.o:     file format elf32-xtensa-le
 
@@ -50,15 +50,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  22 .debug_line   0000068d  00000000  00000000  00001925  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 23 .debug_str    0000053b  00000000  00000000  00001fb2  2**0
+ 23 .debug_str    00000541  00000000  00000000  00001fb2  2**0
                   CONTENTS, READONLY, DEBUGGING
- 24 .comment      0000003b  00000000  00000000  000024ed  2**0
+ 24 .comment      0000003b  00000000  00000000  000024f3  2**0
                   CONTENTS, READONLY
- 25 .xtensa.info  00000038  00000000  00000000  00002528  2**0
+ 25 .xtensa.info  00000038  00000000  00000000  0000252e  2**0
                   CONTENTS, READONLY
- 26 .xt.lit       00000028  00000000  00000000  00002560  2**0
+ 26 .xt.lit       00000028  00000000  00000000  00002566  2**0
                   CONTENTS, RELOC, READONLY
- 27 .xt.prop      00000348  00000000  00000000  00002588  2**0
+ 27 .xt.prop      00000348  00000000  00000000  0000258e  2**0
                   CONTENTS, RELOC, READONLY
 
 heap_caps.o:     file format elf32-xtensa-le
@@ -185,15 +185,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  59 .debug_line   00000a4a  00000000  00000000  00002e84  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 60 .debug_str    000006cd  00000000  00000000  000038ce  2**0
+ 60 .debug_str    000006d3  00000000  00000000  000038ce  2**0
                   CONTENTS, READONLY, DEBUGGING
- 61 .comment      0000003b  00000000  00000000  00003f9b  2**0
+ 61 .comment      0000003b  00000000  00000000  00003fa1  2**0
                   CONTENTS, READONLY
- 62 .xtensa.info  00000038  00000000  00000000  00003fd6  2**0
+ 62 .xtensa.info  00000038  00000000  00000000  00003fdc  2**0
                   CONTENTS, READONLY
- 63 .xt.lit       000000b0  00000000  00000000  0000400e  2**0
+ 63 .xt.lit       000000b0  00000000  00000000  00004014  2**0
                   CONTENTS, RELOC, READONLY
- 64 .xt.prop      000009cc  00000000  00000000  000040be  2**0
+ 64 .xt.prop      000009cc  00000000  00000000  000040c4  2**0
                   CONTENTS, RELOC, READONLY
 
 multi_heap.o:     file format elf32-xtensa-le
@@ -308,15 +308,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  53 .debug_line   0000122f  00000000  00000000  000071f2  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 54 .debug_str    000006d3  00000000  00000000  00008421  2**0
+ 54 .debug_str    000006d9  00000000  00000000  00008421  2**0
                   CONTENTS, READONLY, DEBUGGING
- 55 .comment      0000003b  00000000  00000000  00008af4  2**0
+ 55 .comment      0000003b  00000000  00000000  00008afa  2**0
                   CONTENTS, READONLY
- 56 .xtensa.info  00000038  00000000  00000000  00008b2f  2**0
+ 56 .xtensa.info  00000038  00000000  00000000  00008b35  2**0
                   CONTENTS, READONLY
- 57 .xt.lit       00000070  00000000  00000000  00008b67  2**0
+ 57 .xt.lit       00000070  00000000  00000000  00008b6d  2**0
                   CONTENTS, RELOC, READONLY
- 58 .xt.prop      00000cf0  00000000  00000000  00008bd7  2**0
+ 58 .xt.prop      00000cf0  00000000  00000000  00008bdd  2**0
                   CONTENTS, RELOC, READONLY
 
 heap_trace.o:     file format elf32-xtensa-le
@@ -429,13 +429,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  52 .debug_line   000004f1  00000000  00000000  00001606  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 53 .debug_str    000005a5  00000000  00000000  00001af7  2**0
+ 53 .debug_str    000005ab  00000000  00000000  00001af7  2**0
                   CONTENTS, READONLY, DEBUGGING
- 54 .comment      0000003b  00000000  00000000  0000209c  2**0
+ 54 .comment      0000003b  00000000  00000000  000020a2  2**0
                   CONTENTS, READONLY
- 55 .xtensa.info  00000038  00000000  00000000  000020d7  2**0
+ 55 .xtensa.info  00000038  00000000  00000000  000020dd  2**0
                   CONTENTS, READONLY
- 56 .xt.lit       00000090  00000000  00000000  0000210f  2**0
+ 56 .xt.lit       00000090  00000000  00000000  00002115  2**0
                   CONTENTS, RELOC, READONLY
- 57 .xt.prop      0000045c  00000000  00000000  0000219f  2**0
+ 57 .xt.prop      0000045c  00000000  00000000  000021a5  2**0
                   CONTENTS, RELOC, READONLY

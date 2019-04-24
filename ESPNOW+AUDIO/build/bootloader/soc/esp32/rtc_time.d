@@ -8,7 +8,7 @@ esp32/rtc_time.o: /home/tu/esp/esp-idf/components/soc/esp32/rtc_time.c \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/timer_group_reg.h \
  /home/tu/esp/esp-idf/components/soc/esp32/soc_log.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log_internal.h
 
 /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
@@ -29,7 +29,7 @@ esp32/rtc_time.o: /home/tu/esp/esp-idf/components/soc/esp32/rtc_time.c \
 
 /home/tu/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/log/include/esp_log_internal.h:
 /home/tu/esp/esp-idf/components/soc/esp32/rtc_time.c:

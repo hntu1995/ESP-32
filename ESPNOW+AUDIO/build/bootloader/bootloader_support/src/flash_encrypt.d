@@ -3,7 +3,7 @@ src/flash_encrypt.o: \
  /home/tu/esp/esp-idf/components/bootloader_support/include_bootloader/bootloader_flash.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /home/tu/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_flash_data_types.h \
@@ -45,7 +45,7 @@ src/flash_encrypt.o: \
 
 /home/tu/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/bootloader_support/include/esp_image_format.h:
 

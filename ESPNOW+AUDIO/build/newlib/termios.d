@@ -1,5 +1,5 @@
 termios.o: /home/tu/esp/esp-idf/components/newlib/termios.c \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/sys/termios.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -19,7 +19,7 @@ termios.o: /home/tu/esp/esp-idf/components/newlib/termios.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/errno.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/reent.h
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/sys/termios.h:
 

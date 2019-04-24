@@ -25,7 +25,7 @@ utime.o: /home/tu/esp/esp-idf/components/newlib/utime.c \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/reent.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -146,7 +146,7 @@ utime.o: /home/tu/esp/esp-idf/components/newlib/utime.c \
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

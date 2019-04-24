@@ -23,7 +23,7 @@ src/bootloader_utility.o: \
  /home/tu/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
@@ -137,7 +137,7 @@ src/bootloader_utility.o: \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/log/include/esp_log.h:
 

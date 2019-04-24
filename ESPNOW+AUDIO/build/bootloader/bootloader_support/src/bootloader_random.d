@@ -18,7 +18,7 @@ src/bootloader_random.o: \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_dport_access.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/uart_reg.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/xtruntime.h \
@@ -67,7 +67,7 @@ src/bootloader_random.o: \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_dport_access.h:
 

@@ -22,7 +22,7 @@ pm_esp32.o: /home/tu/esp/esp-idf/components/esp32/pm_esp32.c \
  /home/tu/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/param.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -144,7 +144,7 @@ pm_esp32.o: /home/tu/esp/esp-idf/components/esp32/pm_esp32.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_err.h:
 

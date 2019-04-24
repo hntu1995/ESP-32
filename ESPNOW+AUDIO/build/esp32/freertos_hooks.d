@@ -19,7 +19,7 @@ freertos_hooks.o: /home/tu/esp/esp-idf/components/esp32/freertos_hooks.c \
  /home/tu/esp/esp-idf/components/newlib/include/alloca.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -121,7 +121,7 @@ freertos_hooks.o: /home/tu/esp/esp-idf/components/esp32/freertos_hooks.c \
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

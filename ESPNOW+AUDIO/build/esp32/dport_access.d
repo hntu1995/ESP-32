@@ -16,7 +16,7 @@ dport_access.o: /home/tu/esp/esp-idf/components/esp32/dport_access.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/lock.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdio.h \
@@ -129,7 +129,7 @@ dport_access.o: /home/tu/esp/esp-idf/components/esp32/dport_access.c \
 
 /home/tu/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 

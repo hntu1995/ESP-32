@@ -1,6 +1,6 @@
 port/esp_mem.o: /home/tu/esp/esp-idf/components/mbedtls/port/esp_mem.c \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/heap/include/esp_heap_caps.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -25,7 +25,7 @@ port/esp_mem.o: /home/tu/esp/esp-idf/components/mbedtls/port/esp_mem.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/heap/include/esp_heap_caps.h:
 

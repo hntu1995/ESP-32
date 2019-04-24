@@ -21,7 +21,7 @@ hwcrypto/sha.o: /home/tu/esp/esp-idf/components/esp32/hwcrypto/sha.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/tu/esp/esp-idf/components/wpa_supplicant/port/include/byteswap.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/alloca.h \
@@ -134,7 +134,7 @@ hwcrypto/sha.o: /home/tu/esp/esp-idf/components/esp32/hwcrypto/sha.c \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdlib.h:
 

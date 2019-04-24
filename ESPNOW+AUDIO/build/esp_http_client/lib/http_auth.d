@@ -31,7 +31,7 @@ lib/http_auth.o: \
  /home/tu/esp/esp-idf/components/esp32/include/rom/queue.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_interface.h \
  /home/tu/esp/esp-idf/components/lwip/lwip/src/include/lwip/ip_addr.h \
@@ -195,7 +195,7 @@ lib/http_auth.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

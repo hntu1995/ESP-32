@@ -24,7 +24,7 @@ esp-mqtt/mqtt_client.o: \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -191,7 +191,7 @@ esp-mqtt/mqtt_client.o: \
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

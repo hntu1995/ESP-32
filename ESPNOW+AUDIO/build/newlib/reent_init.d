@@ -15,7 +15,7 @@ reent_init.o: /home/tu/esp/esp-idf/components/newlib/reent_init.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h
 
 /home/tu/esp/esp-idf/components/newlib/include/string.h:
 
@@ -49,5 +49,5 @@ reent_init.o: /home/tu/esp/esp-idf/components/newlib/reent_init.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 /home/tu/esp/esp-idf/components/newlib/./reent_init.c:

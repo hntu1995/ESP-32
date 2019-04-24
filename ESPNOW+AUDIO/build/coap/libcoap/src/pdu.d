@@ -37,7 +37,7 @@ libcoap/src/pdu.o: /home/tu/esp/esp-idf/components/coap/libcoap/src/pdu.c \
  /home/tu/esp/esp-idf/components/vfs/include/sys/ioctl.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/sys/select.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_task.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
  /home/tu/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/hal.h \
@@ -211,7 +211,7 @@ libcoap/src/pdu.o: /home/tu/esp/esp-idf/components/coap/libcoap/src/pdu.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_task.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 

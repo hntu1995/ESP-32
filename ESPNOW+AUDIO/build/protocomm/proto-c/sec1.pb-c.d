@@ -3,7 +3,7 @@ proto-c/sec1.pb-c.o: \
  /home/tu/esp/esp-idf/components/protocomm/proto-c/sec1.pb-c.h \
  /home/tu/esp/esp-idf/components/protobuf-c/protobuf-c/protobuf-c/protobuf-c.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  /home/tu/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -32,7 +32,7 @@ proto-c/sec1.pb-c.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdlib.h:
 

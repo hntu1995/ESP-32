@@ -1,6 +1,6 @@
 esp32/cpu_util.o: /home/tu/esp/esp-idf/components/soc/esp32/cpu_util.c \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/cpu.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/corebits.h \
  /home/tu/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -16,7 +16,7 @@ esp32/cpu_util.o: /home/tu/esp/esp-idf/components/soc/esp32/cpu_util.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/soc/esp32/include/soc/cpu.h:
 

@@ -140,6 +140,7 @@ espnow_example_main.o: \
  /home/tu/esp/esp-idf/components/esp32/include/esp_now.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/crc.h \
  /home/tu/esp/ESPNOW+AUDIO/main/espnow_example.h \
+ /home/tu/esp/ESPNOW+AUDIO/main/audio.h \
  /home/tu/esp/esp-idf/components/driver/include/driver/i2s.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_struct.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/i2s_reg.h \
@@ -432,6 +433,8 @@ espnow_example_main.o: \
 /home/tu/esp/esp-idf/components/esp32/include/rom/crc.h:
 
 /home/tu/esp/ESPNOW+AUDIO/main/espnow_example.h:
+
+/home/tu/esp/ESPNOW+AUDIO/main/audio.h:
 
 /home/tu/esp/esp-idf/components/driver/include/driver/i2s.h:
 

@@ -26,7 +26,7 @@ src/esp_image_format.o: \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/alloca.h \
@@ -111,7 +111,7 @@ src/esp_image_format.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdlib.h:
 

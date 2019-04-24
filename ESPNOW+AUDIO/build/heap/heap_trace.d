@@ -18,7 +18,7 @@ heap_trace.o: /home/tu/esp/esp-idf/components/heap/heap_trace.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/endian.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/param.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/heap/include/esp_heap_trace.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -126,7 +126,7 @@ heap_trace.o: /home/tu/esp/esp-idf/components/heap/heap_trace.c \
 
 /home/tu/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/heap/include/esp_heap_trace.h:
 

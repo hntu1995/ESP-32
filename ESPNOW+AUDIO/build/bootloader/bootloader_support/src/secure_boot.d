@@ -1,7 +1,7 @@
 src/secure_boot.o: \
  /home/tu/esp/esp-idf/components/bootloader_support/src/secure_boot.c \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_types.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -42,7 +42,7 @@ src/secure_boot.o: \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_types.h:
 

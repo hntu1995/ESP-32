@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/expat/libexpat.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/expat/libexpat.a:
 
 xmltok.o:     file format elf32-xtensa-le
 
@@ -1292,15 +1292,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 271 .debug_line   00006a38  00000000  00000000  0001c300  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-272 .debug_str    000033c6  00000000  00000000  00022d38  2**0
+272 .debug_str    000033cc  00000000  00000000  00022d38  2**0
                   CONTENTS, READONLY, DEBUGGING
-273 .comment      0000003b  00000000  00000000  000260fe  2**0
+273 .comment      0000003b  00000000  00000000  00026104  2**0
                   CONTENTS, READONLY
-274 .xtensa.info  00000038  00000000  00000000  00026139  2**0
+274 .xtensa.info  00000038  00000000  00000000  0002613f  2**0
                   CONTENTS, READONLY
-275 .xt.lit       00000280  00000000  00000000  00026171  2**0
+275 .xt.lit       00000280  00000000  00000000  00026177  2**0
                   CONTENTS, RELOC, READONLY
-276 .xt.prop      000078b4  00000000  00000000  000263f1  2**0
+276 .xt.prop      000078b4  00000000  00000000  000263f7  2**0
                   CONTENTS, RELOC, READONLY
 
 xmlrole.o:     file format elf32-xtensa-le

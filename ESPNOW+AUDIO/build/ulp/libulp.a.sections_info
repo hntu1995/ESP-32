@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/ulp/libulp.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/ulp/libulp.a:
 
 ulp.o:     file format elf32-xtensa-le
 
@@ -40,15 +40,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  17 .debug_line   0000035d  00000000  00000000  00000f0f  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    000003ad  00000000  00000000  0000126c  2**0
+ 18 .debug_str    000003b3  00000000  00000000  0000126c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003b  00000000  00000000  00001619  2**0
+ 19 .comment      0000003b  00000000  00000000  0000161f  2**0
                   CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  00001654  2**0
+ 20 .xtensa.info  00000038  00000000  00000000  0000165a  2**0
                   CONTENTS, READONLY
- 21 .xt.lit       00000018  00000000  00000000  0000168c  2**0
+ 21 .xt.lit       00000018  00000000  00000000  00001692  2**0
                   CONTENTS, RELOC, READONLY
- 22 .xt.prop      00000150  00000000  00000000  000016a4  2**0
+ 22 .xt.prop      00000150  00000000  00000000  000016aa  2**0
                   CONTENTS, RELOC, READONLY
 
 ulp_macro.o:     file format elf32-xtensa-le
@@ -91,13 +91,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  17 .debug_line   000004e6  00000000  00000000  00001dd7  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 18 .debug_str    00000450  00000000  00000000  000022bd  2**0
+ 18 .debug_str    00000456  00000000  00000000  000022bd  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000003b  00000000  00000000  0000270d  2**0
+ 19 .comment      0000003b  00000000  00000000  00002713  2**0
                   CONTENTS, READONLY
- 20 .xtensa.info  00000038  00000000  00000000  00002748  2**0
+ 20 .xtensa.info  00000038  00000000  00000000  0000274e  2**0
                   CONTENTS, READONLY
- 21 .xt.lit       00000010  00000000  00000000  00002780  2**0
+ 21 .xt.lit       00000010  00000000  00000000  00002786  2**0
                   CONTENTS, RELOC, READONLY
- 22 .xt.prop      000002dc  00000000  00000000  00002790  2**0
+ 22 .xt.prop      000002dc  00000000  00000000  00002796  2**0
                   CONTENTS, RELOC, READONLY

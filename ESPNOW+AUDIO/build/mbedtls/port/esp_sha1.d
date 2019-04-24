@@ -1,6 +1,6 @@
 port/esp_sha1.o: /home/tu/esp/esp-idf/components/mbedtls/port/esp_sha1.c \
  /home/tu/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdlib.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
@@ -23,7 +23,7 @@ port/esp_sha1.o: /home/tu/esp/esp-idf/components/mbedtls/port/esp_sha1.c \
 
 /home/tu/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

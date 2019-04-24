@@ -22,7 +22,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha256_mbedtls.o: \
  /home/tu/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
  /home/tu/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha256.h \
  /home/tu/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/mbedtls/port/include/esp_mem.h \
  /home/tu/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /home/tu/esp/esp-idf/components/newlib/include/limits.h \
@@ -73,7 +73,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha256_mbedtls.o: \
 
 /home/tu/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/mbedtls/port/include/esp_mem.h:
 

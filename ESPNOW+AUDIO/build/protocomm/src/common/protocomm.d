@@ -27,7 +27,7 @@ src/common/protocomm.o: \
  /home/tu/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -93,7 +93,7 @@ src/common/protocomm.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

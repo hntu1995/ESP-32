@@ -27,7 +27,7 @@ pm_locks.o: /home/tu/esp/esp-idf/components/esp32/pm_locks.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/sched.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp32/pm.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/rtc.h \
@@ -139,7 +139,7 @@ pm_locks.o: /home/tu/esp/esp-idf/components/esp32/pm_locks.c \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -1,5 +1,5 @@
 intr_alloc.o: /home/tu/esp/esp-idf/components/esp32/intr_alloc.c \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -84,7 +84,7 @@ intr_alloc.o: /home/tu/esp/esp-idf/components/esp32/intr_alloc.c \
  /home/tu/esp/esp-idf/components/log/include/esp_log_internal.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_ipc.h
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/stdint.h:
 

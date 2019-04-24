@@ -38,7 +38,7 @@ nghttp2/lib/nghttp2_outbound_item.o: \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h
 
 /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h:
@@ -117,7 +117,7 @@ nghttp2/lib/nghttp2_outbound_item.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.c:

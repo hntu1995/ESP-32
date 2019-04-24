@@ -18,7 +18,7 @@ vfs.o: /home/tu/esp/esp-idf/components/vfs/vfs.c \
  /home/tu/esp/esp-idf/components/newlib/include/string.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/errno.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/fcntl.h \
@@ -142,7 +142,7 @@ vfs.o: /home/tu/esp/esp-idf/components/vfs/vfs.c \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

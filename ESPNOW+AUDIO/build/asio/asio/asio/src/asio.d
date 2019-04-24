@@ -3,7 +3,7 @@ asio/asio/src/asio.o: \
  /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/impl/src.hpp \
  /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/detail/config.hpp \
  /home/tu/esp/esp-idf/components/asio/port/include/esp_asio_config.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp \
  /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/error.hpp \
  /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/error_code.hpp \
@@ -327,7 +327,7 @@ asio/asio/src/asio.o: \
 
 /home/tu/esp/esp-idf/components/asio/port/include/esp_asio_config.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/asio/asio/asio/include/asio/impl/error.ipp:
 

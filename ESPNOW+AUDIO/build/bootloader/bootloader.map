@@ -1344,7 +1344,7 @@ END GROUP
  *(.jcr)
                 0x000000003fff001c                _data_end = ABSOLUTE (.)
 
-.dram0.rodata   0x000000003fff001c     0x1854
+.dram0.rodata   0x000000003fff001c     0x1844
                 0x000000003fff001c                _rodata_start = ABSOLUTE (.)
  *(.rodata)
  .rodata        0x000000003fff001c       0x14 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
@@ -1354,89 +1354,89 @@ END GROUP
                 0x000000003fff0038       0x3b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/main/libmain.a(bootloader_start.o)
  *fill*         0x000000003fff0073        0x1 
  .rodata.str1.4
-                0x000000003fff0074      0x3e6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
-                                        0x3ee (size before relaxing)
- *fill*         0x000000003fff045a        0x2 
+                0x000000003fff0074      0x3d6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
+                                        0x3de (size before relaxing)
+ *fill*         0x000000003fff044a        0x2 
  .rodata.__func__$4476
-                0x000000003fff045c       0x10 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
+                0x000000003fff044c       0x10 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
  .rodata.str1.4
-                0x000000003fff046c      0x5f5 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_utility.o)
+                0x000000003fff045c      0x5f5 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_utility.o)
                                         0x5fd (size before relaxing)
- *fill*         0x000000003fff0a61        0x3 
+ *fill*         0x000000003fff0a51        0x3 
  .rodata.str1.4
-                0x000000003fff0a64      0x163 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_partitions.o)
- *fill*         0x000000003fff0bc7        0x1 
+                0x000000003fff0a54      0x163 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_partitions.o)
+ *fill*         0x000000003fff0bb7        0x1 
  .rodata.str1.4
-                0x000000003fff0bc8      0x4d6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(esp_image_format.o)
+                0x000000003fff0bb8      0x4d6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(esp_image_format.o)
                                         0x516 (size before relaxing)
- *fill*         0x000000003fff109e        0x2 
+ *fill*         0x000000003fff108e        0x2 
  .rodata.str1.4
-                0x000000003fff10a0       0xc4 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
+                0x000000003fff1090       0xc4 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
  .rodata.padding$3889
-                0x000000003fff1164       0x40 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
+                0x000000003fff1154       0x40 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
  .rodata.__func__$3885
-                0x000000003fff11a4       0x19 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
- *fill*         0x000000003fff11bd        0x3 
+                0x000000003fff1194       0x19 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
+ *fill*         0x000000003fff11ad        0x3 
  .rodata.__func__$3865
-                0x000000003fff11c0       0x17 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
- *fill*         0x000000003fff11d7        0x1 
+                0x000000003fff11b0       0x17 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
+ *fill*         0x000000003fff11c7        0x1 
  .rodata.str1.4
-                0x000000003fff11d8       0x5b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
- *fill*         0x000000003fff1233        0x1 
+                0x000000003fff11c8       0x5b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
+ *fill*         0x000000003fff1223        0x1 
  .rodata.__func__$2290
-                0x000000003fff1234       0x17 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
- *fill*         0x000000003fff124b        0x1 
+                0x000000003fff1224       0x17 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
+ *fill*         0x000000003fff123b        0x1 
  .rodata.str1.4
-                0x000000003fff124c      0x28e /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_flash.o)
- *fill*         0x000000003fff14da        0x2 
+                0x000000003fff123c      0x28e /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_flash.o)
+ *fill*         0x000000003fff14ca        0x2 
  .rodata.str1.4
-                0x000000003fff14dc      0x1cb /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
- *fill*         0x000000003fff16a7        0x1 
+                0x000000003fff14cc      0x1cb /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
+ *fill*         0x000000003fff1697        0x1 
  .rodata.rtc_clk_xtal_freq_estimate
-                0x000000003fff16a8       0x64 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
+                0x000000003fff1698       0x64 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
  .rodata.str1.4
-                0x000000003fff170c       0xa1 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk.o)
- *fill*         0x000000003fff17ad        0x3 
+                0x000000003fff16fc       0xa1 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk.o)
+ *fill*         0x000000003fff179d        0x3 
  .rodata.str1.4
-                0x000000003fff17b0       0xa8 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
+                0x000000003fff17a0       0xa8 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
                                          0xa5 (size before relaxing)
  .rodata.__func__$1848
-                0x000000003fff1858       0x15 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
+                0x000000003fff1848       0x15 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
  *(.gnu.linkonce.r.*)
  *(.rodata1)
-                0x000000003fff186d                __XT_EXCEPTION_TABLE_ = ABSOLUTE (.)
+                0x000000003fff185d                __XT_EXCEPTION_TABLE_ = ABSOLUTE (.)
  *(.xt_except_table)
  *(.gcc_except_table)
  *(.gnu.linkonce.e.*)
  *(.gnu.version_r)
  *(.eh_frame)
-                0x000000003fff1870                . = ((. + 0x3) & 0xfffffffffffffffc)
- *fill*         0x000000003fff186d        0x3 
-                0x000000003fff1870                __init_array_start = ABSOLUTE (.)
+                0x000000003fff1860                . = ((. + 0x3) & 0xfffffffffffffffc)
+ *fill*         0x000000003fff185d        0x3 
+                0x000000003fff1860                __init_array_start = ABSOLUTE (.)
  *crtbegin.*(.ctors)
  *(EXCLUDE_FILE(*crtend.*) .ctors)
  *(SORT(.ctors.*))
  *(.ctors)
-                0x000000003fff1870                __init_array_end = ABSOLUTE (.)
+                0x000000003fff1860                __init_array_end = ABSOLUTE (.)
  *crtbegin.*(.dtors)
  *(EXCLUDE_FILE(*crtend.*) .dtors)
  *(SORT(.dtors.*))
  *(.dtors)
-                0x000000003fff1870                __XT_EXCEPTION_DESCS_ = ABSOLUTE (.)
+                0x000000003fff1860                __XT_EXCEPTION_DESCS_ = ABSOLUTE (.)
  *(.xt_except_desc)
  *(.gnu.linkonce.h.*)
-                0x000000003fff1870                __XT_EXCEPTION_DESCS_END__ = ABSOLUTE (.)
+                0x000000003fff1860                __XT_EXCEPTION_DESCS_END__ = ABSOLUTE (.)
  *(.xt_except_desc_end)
  *(.dynamic)
  *(.gnu.version_d)
-                0x000000003fff1870                _rodata_end = ABSOLUTE (.)
-                0x000000003fff1870                _lit4_start = ABSOLUTE (.)
+                0x000000003fff1860                _rodata_end = ABSOLUTE (.)
+                0x000000003fff1860                _lit4_start = ABSOLUTE (.)
  *(*.lit4)
  *(.lit4.*)
  *(.gnu.linkonce.lit4.*)
-                0x000000003fff1870                _lit4_end = ABSOLUTE (.)
-                0x000000003fff1870                . = ALIGN (0x4)
-                0x000000003fff1870                _heap_start = ABSOLUTE (.)
+                0x000000003fff1860                _lit4_end = ABSOLUTE (.)
+                0x000000003fff1860                . = ALIGN (0x4)
+                0x000000003fff1860                _heap_start = ABSOLUTE (.)
                 [!provide]                        PROVIDE (Add2SelfBigHex256, 0x40015b7c)
                 [!provide]                        PROVIDE (AddBigHex256, 0x40015b28)
                 [!provide]                        PROVIDE (AddBigHexModP256, 0x40015c98)
@@ -3338,50 +3338,50 @@ OUTPUT(/home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader.elf elf32-xtensa-le
  .debug_line    0x0000000000006fdc       0x89 /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_bswapsi2.o)
  .debug_line    0x0000000000007065      0x18e /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_udivdi3.o)
 
-.debug_str      0x0000000000000000     0x4b51
- .debug_str     0x0000000000000000      0x2f0 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/main/libmain.a(bootloader_start.o)
-                                        0x354 (size before relaxing)
- .debug_str     0x00000000000002f0      0xad0 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
-                                        0xcc8 (size before relaxing)
- .debug_str     0x0000000000000dc0      0x4c7 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_utility.o)
-                                        0x994 (size before relaxing)
- .debug_str     0x0000000000001287      0x3ff /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_common.o)
-                                        0x921 (size before relaxing)
- .debug_str     0x0000000000001686      0x233 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_clock.o)
+.debug_str      0x0000000000000000     0x4b69
+ .debug_str     0x0000000000000000      0x2f6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/main/libmain.a(bootloader_start.o)
+                                        0x35a (size before relaxing)
+ .debug_str     0x00000000000002f6      0xad6 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_init.o)
+                                        0xcce (size before relaxing)
+ .debug_str     0x0000000000000dcc      0x4c7 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_utility.o)
+                                        0x99a (size before relaxing)
+ .debug_str     0x0000000000001293      0x3ff /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_common.o)
+                                        0x927 (size before relaxing)
+ .debug_str     0x0000000000001692      0x233 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_clock.o)
                                         0x38e (size before relaxing)
- .debug_str     0x00000000000018b9       0xaa /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_partitions.o)
-                                        0x3b2 (size before relaxing)
- .debug_str     0x0000000000001963      0x2f2 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(esp_image_format.o)
-                                        0xa1f (size before relaxing)
- .debug_str     0x0000000000001c55      0x106 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
-                                        0x347 (size before relaxing)
- .debug_str     0x0000000000001d5b       0x6c /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
-                                        0x23c (size before relaxing)
- .debug_str     0x0000000000001dc7      0x20e /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_flash.o)
-                                        0x5e0 (size before relaxing)
- .debug_str     0x0000000000001fd5     0x187b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_qio_mode.o)
-                                       0x1ba7 (size before relaxing)
- .debug_str     0x0000000000003850      0x17b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/log/liblog.a(log.o)
-                                        0x337 (size before relaxing)
- .debug_str     0x00000000000039cb      0x363 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/spi_flash/libspi_flash.a(spi_flash_rom_patch.o)
+ .debug_str     0x00000000000018c5       0xaa /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_partitions.o)
+                                        0x3b8 (size before relaxing)
+ .debug_str     0x000000000000196f      0x2f2 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(esp_image_format.o)
+                                        0xa25 (size before relaxing)
+ .debug_str     0x0000000000001c61      0x106 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_sha.o)
+                                        0x34d (size before relaxing)
+ .debug_str     0x0000000000001d67       0x6c /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_random.o)
+                                        0x242 (size before relaxing)
+ .debug_str     0x0000000000001dd3      0x20e /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(bootloader_flash.o)
+                                        0x5e6 (size before relaxing)
+ .debug_str     0x0000000000001fe1     0x187b /home/tu/esp/ESPNOW+AUDIO/build/bootloader/bootloader_support/libbootloader_support.a(flash_qio_mode.o)
+                                       0x1bad (size before relaxing)
+ .debug_str     0x000000000000385c      0x181 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/log/liblog.a(log.o)
+                                        0x33d (size before relaxing)
+ .debug_str     0x00000000000039dd      0x363 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/spi_flash/libspi_flash.a(spi_flash_rom_patch.o)
                                         0x749 (size before relaxing)
- .debug_str     0x0000000000003d2e       0x68 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(cpu_util.o)
+ .debug_str     0x0000000000003d40       0x68 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(cpu_util.o)
                                         0x174 (size before relaxing)
- .debug_str     0x0000000000003d96      0x158 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_wdt.o)
-                                        0x4e2 (size before relaxing)
- .debug_str     0x0000000000003eee       0xb8 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_init.o)
+ .debug_str     0x0000000000003da8      0x15e /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_wdt.o)
+                                        0x4e8 (size before relaxing)
+ .debug_str     0x0000000000003f06       0xb8 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_init.o)
                                         0x23d (size before relaxing)
- .debug_str     0x0000000000003fa6      0x2b4 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
-                                        0x699 (size before relaxing)
- .debug_str     0x000000000000425a       0x38 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(gpio_periph.o)
+ .debug_str     0x0000000000003fbe      0x2b4 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk_init.o)
+                                        0x69f (size before relaxing)
+ .debug_str     0x0000000000004272       0x38 /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(gpio_periph.o)
                                         0x13e (size before relaxing)
- .debug_str     0x0000000000004292      0x56f /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk.o)
-                                        0xae0 (size before relaxing)
- .debug_str     0x0000000000004801      0x13c /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
-                                        0x444 (size before relaxing)
- .debug_str     0x000000000000493d      0x138 /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_bswapsi2.o)
+ .debug_str     0x00000000000042aa      0x56f /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_clk.o)
+                                        0xae6 (size before relaxing)
+ .debug_str     0x0000000000004819      0x13c /home/tu/esp/ESPNOW+AUDIO/build/bootloader/soc/libsoc.a(rtc_time.o)
+                                        0x44a (size before relaxing)
+ .debug_str     0x0000000000004955      0x138 /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_bswapsi2.o)
                                         0x1de (size before relaxing)
- .debug_str     0x0000000000004a75       0xdc /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_udivdi3.o)
+ .debug_str     0x0000000000004a8d       0xdc /home/tu/esp/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/5.2.0/libgcc.a(_udivdi3.o)
                                         0x258 (size before relaxing)
 
 .comment        0x0000000000000000       0x3a

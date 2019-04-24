@@ -43,7 +43,7 @@ nghttp2/lib/nghttp2_session.o: \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h \
  /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/assert.h \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h \
  /home/tu/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_net.h \
@@ -138,7 +138,7 @@ nghttp2/lib/nghttp2_session.o: \
 
 /home/tu/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -6,7 +6,7 @@ src/efuse.o: \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
- /home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/log/include/esp_log_internal.h \
@@ -24,7 +24,7 @@ src/efuse.o: \
 
 /home/tu/esp/esp-idf/components/log/include/esp_log.h:
 
-/home/tu/esp/espnow/build/bootloader/../include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/bootloader/../include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

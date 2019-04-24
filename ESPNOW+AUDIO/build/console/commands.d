@@ -29,7 +29,7 @@ commands.o: /home/tu/esp/esp-idf/components/console/commands.c \
  /home/tu/esp/esp-idf/components/log/include/esp_log.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -105,7 +105,7 @@ commands.o: /home/tu/esp/esp-idf/components/console/commands.c \
 
 /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

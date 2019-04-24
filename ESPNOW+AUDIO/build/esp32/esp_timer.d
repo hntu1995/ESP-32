@@ -22,7 +22,7 @@ esp_timer.o: /home/tu/esp/esp-idf/components/esp32/esp_timer.c \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/types.h \
@@ -139,7 +139,7 @@ esp_timer.o: /home/tu/esp/esp-idf/components/esp32/esp_timer.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_err.h:
 

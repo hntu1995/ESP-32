@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/smartconfig_ack/libsmartconfig_ack.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/smartconfig_ack/libsmartconfig_ack.a:
 
 smartconfig_ack.o:     file format elf32-xtensa-le
 
@@ -44,13 +44,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  19 .debug_line   000005ab  00000000  00000000  0000171b  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 20 .debug_str    000006ea  00000000  00000000  00001cc6  2**0
+ 20 .debug_str    000006f0  00000000  00000000  00001cc6  2**0
                   CONTENTS, READONLY, DEBUGGING
- 21 .comment      0000003b  00000000  00000000  000023b0  2**0
+ 21 .comment      0000003b  00000000  00000000  000023b6  2**0
                   CONTENTS, READONLY
- 22 .xtensa.info  00000038  00000000  00000000  000023eb  2**0
+ 22 .xtensa.info  00000038  00000000  00000000  000023f1  2**0
                   CONTENTS, READONLY
- 23 .xt.lit       00000020  00000000  00000000  00002423  2**0
+ 23 .xt.lit       00000020  00000000  00000000  00002429  2**0
                   CONTENTS, RELOC, READONLY
- 24 .xt.prop      000001ec  00000000  00000000  00002443  2**0
+ 24 .xt.prop      000001ec  00000000  00000000  00002449  2**0
                   CONTENTS, RELOC, READONLY

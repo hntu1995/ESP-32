@@ -22,7 +22,7 @@ bt.o: /home/tu/esp/esp-idf/components/bt/bt.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/include/string.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/heap/include/esp_heap_caps.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdint.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -151,7 +151,7 @@ bt.o: /home/tu/esp/esp-idf/components/bt/bt.c \
 
 /home/tu/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/heap/include/esp_heap_caps.h:
 

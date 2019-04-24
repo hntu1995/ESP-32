@@ -17,7 +17,7 @@ cpu_start.o: /home/tu/esp/esp-idf/components/esp32/cpu_start.c \
  /home/tu/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/string.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/esp32/include/esp_err.h \
  /home/tu/esp/esp-idf/components/newlib/include/stdio.h \
  /home/tu/esp/esp-idf/components/newlib/include/sys/types.h \
@@ -222,7 +222,7 @@ cpu_start.o: /home/tu/esp/esp-idf/components/esp32/cpu_start.c \
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_attr.h:
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/esp32/include/esp_err.h:
 

@@ -1,4 +1,4 @@
-In archive /home/tu/esp/espnow/build/vfs/libvfs.a:
+In archive /home/tu/esp/ESPNOW+AUDIO/build/vfs/libvfs.a:
 
 vfs_uart.o:     file format elf32-xtensa-le
 
@@ -184,15 +184,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
  89 .debug_line   00001203  00000000  00000000  0000669d  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
- 90 .debug_str    000014b6  00000000  00000000  000078a0  2**0
+ 90 .debug_str    000014bc  00000000  00000000  000078a0  2**0
                   CONTENTS, READONLY, DEBUGGING
- 91 .comment      0000003b  00000000  00000000  00008d56  2**0
+ 91 .comment      0000003b  00000000  00000000  00008d5c  2**0
                   CONTENTS, READONLY
- 92 .xtensa.info  00000038  00000000  00000000  00008d91  2**0
+ 92 .xtensa.info  00000038  00000000  00000000  00008d97  2**0
                   CONTENTS, READONLY
- 93 .xt.lit       000000d0  00000000  00000000  00008dc9  2**0
+ 93 .xt.lit       000000d0  00000000  00000000  00008dcf  2**0
                   CONTENTS, RELOC, READONLY
- 94 .xt.prop      000015c0  00000000  00000000  00008e99  2**0
+ 94 .xt.prop      000015c0  00000000  00000000  00008e9f  2**0
                   CONTENTS, RELOC, READONLY
 
 vfs.o:     file format elf32-xtensa-le
@@ -421,13 +421,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, RELOC, READONLY, DEBUGGING
 110 .debug_line   00001c9e  00000000  00000000  0000967a  2**0
                   CONTENTS, RELOC, READONLY, DEBUGGING
-111 .debug_str    00000ff3  00000000  00000000  0000b318  2**0
+111 .debug_str    00000ff9  00000000  00000000  0000b318  2**0
                   CONTENTS, READONLY, DEBUGGING
-112 .comment      0000003b  00000000  00000000  0000c30b  2**0
+112 .comment      0000003b  00000000  00000000  0000c311  2**0
                   CONTENTS, READONLY
-113 .xtensa.info  00000038  00000000  00000000  0000c346  2**0
+113 .xtensa.info  00000038  00000000  00000000  0000c34c  2**0
                   CONTENTS, READONLY
-114 .xt.lit       00000178  00000000  00000000  0000c37e  2**0
+114 .xt.lit       00000178  00000000  00000000  0000c384  2**0
                   CONTENTS, RELOC, READONLY
-115 .xt.prop      00001eb4  00000000  00000000  0000c4f6  2**0
+115 .xt.prop      00001eb4  00000000  00000000  0000c4fc  2**0
                   CONTENTS, RELOC, READONLY

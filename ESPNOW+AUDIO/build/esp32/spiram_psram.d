@@ -1,5 +1,5 @@
 spiram_psram.o: /home/tu/esp/esp-idf/components/esp32/spiram_psram.c \
- /home/tu/esp/espnow/build/include/sdkconfig.h \
+ /home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h \
  /home/tu/esp/esp-idf/components/newlib/include/string.h \
  /home/tu/esp/esp-idf/components/newlib/include/_ansi.h \
  /home/tu/esp/esp-idf/components/newlib/include/newlib.h \
@@ -75,7 +75,7 @@ spiram_psram.o: /home/tu/esp/esp-idf/components/esp32/spiram_psram.c \
  /home/tu/esp/esp-idf/components/soc/esp32/include/soc/spi_struct.h \
  /home/tu/esp/esp-idf/components/driver/include/driver/periph_ctrl.h
 
-/home/tu/esp/espnow/build/include/sdkconfig.h:
+/home/tu/esp/ESPNOW+AUDIO/build/include/sdkconfig.h:
 
 /home/tu/esp/esp-idf/components/newlib/include/string.h:
 
